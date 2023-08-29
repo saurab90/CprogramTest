@@ -1,0 +1,16 @@
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\BasicCTestProj.exe
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\BasicCTestProj.deps.json
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\BasicCTestProj.runtimeconfig.json
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\BasicCTestProj.runtimeconfig.dev.json
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\BasicCTestProj.dll
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\ref\BasicCTestProj.dll
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\bin\Debug\net5.0\BasicCTestProj.pdb
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.csproj.AssemblyReference.cache
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.AssemblyInfoInputs.cache
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.AssemblyInfo.cs
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.csproj.CoreCompileInputs.cache
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.dll
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\ref\BasicCTestProj.dll
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.pdb
+D:\Amran Ali Saurab\BasicCTest\BasicCTestProj\BasicCTestProj\obj\Debug\net5.0\BasicCTestProj.genruntimeconfig.cache
